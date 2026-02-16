@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "30187725492",
+    "project_id": "restaureusers",
+    "storage_bucket": "restaureusers.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30187725492:android:349613bb39a0acaad66de1",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_discovery_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30187725492-3qs2ilk2d4c4tfaj9gkts5ul0mh41oj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restaurant_discovery_flutter",
+            "certificate_hash": "0f2aa21ed0a26c30509ddc9e5d3cc2fb890d1e17"
+          }
+        },
+        {
+          "client_id": "30187725492-71ati4tidpcj4783o79nllckgmpu14la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8oemVz4ugUjazFuSP_tsw7iIdwHROjn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30187725492-71ati4tidpcj4783o79nllckgmpu14la.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
