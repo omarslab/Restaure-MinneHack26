@@ -26,4 +26,4 @@ flutter run
 1. Create your own Firebase project.
 2. Download Android config as `google-services.json`.
 3. Place it at `restaurant_discovery_flutter/android/app/google-services.json`.
-4. Keep this file local and out of git; use `android/app/google-services.example.json` as a template.
+4. Keep this file local and out of git, use `android/app/google-services.example.json` as a template.
